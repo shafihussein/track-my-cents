@@ -1,0 +1,11 @@
+<svg width="640" height="220" viewBox="0 0 640 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Track My Cents logo design 2</title>
+  <desc id="desc">A round black T and gold dollar sign mark with Track My Cents wordmark on white.</desc>
+  <rect width="640" height="220" fill="#FFFFFF"/>
+  <circle cx="113" cy="110" r="78" fill="#FFFFFF" stroke="#111111" stroke-width="8"/>
+  <path d="M65 62H161V86H125V158H101V86H65V62Z" fill="#111111"/>
+  <text x="113" y="137" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="900" fill="#D4A017">$</text>
+  <text x="224" y="96" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" fill="#111111">TRACK MY CENTS</text>
+  <text x="227" y="138" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#5F6670">SPEND SMARTER. KEEP SCORE.</text>
+  <path d="M225 154H520" stroke="#D4A017" stroke-width="7" stroke-linecap="round"/>
+</svg>
