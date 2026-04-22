@@ -1,0 +1,6 @@
+{
+  "name": "gray-master",
+  "package": "npm:gray-matter@^4.0.3",
+  "note": "The exact gray-master package name is not published on npm, so this project uses an npm alias to gray-matter.",
+  "assetsDirectory": "src/assets/info"
+}
